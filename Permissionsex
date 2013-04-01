@@ -356,7 +356,7 @@ groups:
     permissions:
     - '*'
     inheritance:
-    - HeadAdmin
+    - HeadAdmin:
   Owner:
     prefix: '&9[&3Owner&9]&0 '
     permissions:
