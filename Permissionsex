@@ -336,7 +336,7 @@ groups:
     - ultimatearena.admin
     inheritance:
     - HeadDev
-  HeadAdmin:
+  HeadAdmin: Awesome_O_Walrus :D
     prefix: '[Head Admin] '
     options:
       rank: '300'
